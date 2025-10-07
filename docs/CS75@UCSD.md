@@ -45,6 +45,10 @@ CS76 和 CS75 的选课方案不一样，申请难度相对较低，但实际上
 
 [查看公寓预计排期](https://its-netweb.ucsd.edu/hdh-gfh-community-statistics/statistics.aspx#3)
 
+**关于 Co-op:**
+- 自 2025Fall 起，CS75/CS76 项目开始正式支持 coop，详情查看 [Jacobs School Co-op](https://jacobsschool.ucsd.edu/cap/co-op)。
+- 能 coop 的学期是有限的，学生只能在第二年暑期和秋季学期参与，coop的公司需要学生自己找，不完全限制在已有的公司列表中，可以 case-by-case basis 来和部门沟通。
+
 ## 申请季实时信息
 
 24fall CS75录取了一堆ucsd本校ds/math-cs专业的学生；本校bg够的话可以当作保底。
